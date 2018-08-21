@@ -1,0 +1,13 @@
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\WebsitesScreenshot.dll
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\bin\Debug\WebsitesScreenshot.xml
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Jamal\source\repos\Webscreenshot\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
